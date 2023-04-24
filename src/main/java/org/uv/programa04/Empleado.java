@@ -6,7 +6,7 @@ package org.uv.programa04;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public class Empleado {
     private long clave;

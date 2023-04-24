@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public class ConexionDB {
     private Connection con=null;

@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public interface IDAOGeneral<T, ID> {
     public T create(T p);

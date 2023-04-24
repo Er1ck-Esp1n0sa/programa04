@@ -8,7 +8,7 @@ import java.sql.Connection;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public abstract class TransaccionDB<T> {
     protected T p;

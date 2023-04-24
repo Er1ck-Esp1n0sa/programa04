@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author minio
+ * @author erick
  */
 public class DAOEmpleado implements IDAOGeneral<Empleado, Long> {
     
